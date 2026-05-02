@@ -1,0 +1,5 @@
+Burger 500 5
+Pizza 1200 8
+Fries 300 3
+Sandwich 400 4
+Drink 150 1

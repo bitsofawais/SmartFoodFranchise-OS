@@ -1,0 +1,75 @@
+=== End of Day Report ===
+Total Orders Served: 0
+Total Revenue: $0.00
+Waiter Collected: $0.00
+Status: BALANCED
+
+=== End of Day Report (Session) ===
+Total Orders Served: 1
+Total Revenue: $2000.00
+Waiter Collected: $2000.00
+Status: BALANCED
+===================================
+
+=== End of Day Report (Session) ===
+Total Orders Served: 1
+Total Revenue: $2550.00
+Waiter Collected: $2550.00
+Status: BALANCED
+===================================
+
+=== End of Day Report (Session) ===
+Total Orders Served: 2
+Total Revenue: $4100.00
+Waiter Collected: $4100.00
+Status: BALANCED
+===================================
+
+=== End of Day Report (Session) ===
+Total Orders Served: 1
+Total Revenue: $2150.00
+Waiter Collected: $0.00
+Status: DISCREPANCY DETECTED
+===================================
+
+=== End of Day Report (Session) ===
+Total Orders Served: 0
+Total Revenue: $0.00
+Waiter Collected: $0.00
+Status: BALANCED
+===================================
+
+=== End of Day Report (Session) ===
+Total Orders Served: 1
+Total Revenue: $2000.00
+Waiter Collected: $2000.00
+Status: BALANCED
+===================================
+
+=== End of Day Report (Session) ===
+Total Orders Served: 1
+Total Revenue: $2000.00
+Waiter Collected: $2000.00
+Status: BALANCED
+===================================
+
+=== End of Day Report (Session) ===
+Total Orders Served: 1
+Total Revenue: $1700.00
+Waiter Collected: $0.00
+Status: DISCREPANCY DETECTED
+===================================
+
+=== End of Day Report (Session) ===
+Total Orders Served: 2
+Total Revenue: $6550.00
+Waiter Collected: $2000.00
+Status: DISCREPANCY DETECTED
+===================================
+
+=== End of Day Report (Session) ===
+Total Orders Served: 1
+Total Revenue: $1200.00
+Waiter Collected: $1200.00
+Status: BALANCED
+===================================

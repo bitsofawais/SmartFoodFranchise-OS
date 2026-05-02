@@ -1,0 +1,12 @@
+Order ID: 384 | Customer: awas (ID: 2323) | Bill: $2000.00 | Status: Delivered
+Order ID: 384 | Customer: hilal (ID: 1212) | Bill: $2550.00 | Status: Delivered
+Order ID: 384 | Customer: awais (ID: 12122) | Bill: $2000.00 | Status: Delivered
+Order ID: 887 | Customer: awais (ID: 12122) | Bill: $2100.00 | Status: Delivered
+Order ID: 887 | Customer: thsi (ID: 2332) | Bill: $1500.00 | Status: Delivered
+Order ID: 384 | Customer: thsi (ID: 2332) | Bill: $2550.00 | Status: Delivered
+Order ID: 384 | Customer: awais (ID: 323121) | Bill: $2150.00 | Status: Delivered
+Order ID: 384 | Customer: bukhari (ID: 67698) | Bill: $2000.00 | Status: Delivered
+Order ID: 384 | Customer: dgfgh (ID: 676) | Bill: $2000.00 | Status: Delivered
+Order ID: 384 | Customer: Daniyal choudary (ID: 0) | Bill: $1700.00 | Status: Delivered
+Order ID: 384 | Customer: awais (ID: 547647) | Bill: $2000.00 | Status: Delivered
+Order ID: 384 | Customer: ff (ID: 2222) | Bill: $1200.00 | Status: Delivered
